@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "methods_params": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
